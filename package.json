@@ -1,0 +1,30 @@
+{
+  "name": "wechat-article-viewer",
+  "version": "1.0.0",
+  "description": "微信公众号文章完整阅读器 - OpenClaw Skill",
+  "main": "scripts/fetch_article.js",
+  "scripts": {
+    "check": "node scripts/check_browser.js",
+    "fetch": "node scripts/fetch_article.js",
+    "install-deps": "npm install puppeteer"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "wechat",
+    "article",
+    "crawler"
+  ],
+  "author": "be_racle (设计思路) + 红温 (实现)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^21.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/skills.git"
+  }
+}
