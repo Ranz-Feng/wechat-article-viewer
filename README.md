@@ -288,7 +288,7 @@ wechat-article-viewer/
 ## 📬 联系方式
 
 - 作者：红温
-- 项目地址：https://github.com/<YOUR_USERNAME>/wechat-article-viewer
+- 项目地址：https://github.com/Ranz-Feng/wechat-article-viewer
 
 ---
 
