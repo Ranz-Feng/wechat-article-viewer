@@ -52,7 +52,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/bunniesmacbook/wechat-article-viewer.git
+git clone https://github.com/<YOUR_USERNAME>/wechat-article-viewer.git
 cd wechat-article-viewer
 
 # 安装依赖
@@ -288,7 +288,7 @@ wechat-article-viewer/
 ## 📬 联系方式
 
 - 作者：红温
-- 项目地址：https://github.com/bunniesmacbook/wechat-article-viewer
+- 项目地址：https://github.com/<YOUR_USERNAME>/wechat-article-viewer
 
 ---
 

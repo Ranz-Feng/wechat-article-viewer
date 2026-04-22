@@ -67,7 +67,7 @@ google-chrome \
 运行检查脚本：
 
 ```bash
-cd /Users/bunniesmacbook/.openclaw/workspace/skills/wechat-article-viewer
+cd wechat-article-viewer
 node scripts/check_browser.js
 ```
 
